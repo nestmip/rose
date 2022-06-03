@@ -1,7 +1,7 @@
 #!/bin/sh
 
-UUID=2f821204-f997-4ba6-9026-bdc4950cdb30
-WSPATH=/test
+UUID=2f821204-f997-4ba6-9062-bdc4095cdb03
+WSPATH=/tet
 PORT=80
 
 
